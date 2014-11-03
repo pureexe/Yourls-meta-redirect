@@ -2,7 +2,7 @@ Meta Redirect
 ====================
 
 Yourls plugin use to skip link spam check.
-in my case. i can't post [ok-like.net] url to facebook because facebook report this is spam, after i shorten link facebook report it spam too. so i this plugin use <meta> to redirect it will skip facebook spam check. if you want to redirect with <meta> add "_" (under score) before your keyword. if not it will use header redirect as default.
+in my case. i can't post [ok-like.net](https://ok-like.net) url to facebook because facebook report this is spam, after i shorten link facebook report it spam too. so i this plugin use <meta> to redirect it will skip facebook spam check. if you want to redirect with <meta> add "_" (under score) before your keyword. if not it will use header redirect as default.
 
 How to
 ===================
