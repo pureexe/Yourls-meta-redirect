@@ -6,10 +6,10 @@ in my case. i can't post ok-like.net url to facebook because facebook report thi
 
 How to
 ===================
--In /user/plugins, create a new folder named meta-redirect
--Drop these files in that directory
--Go to the Plugins administration page and activate the plugin
--Have fun
++In /user/plugins, create a new folder named meta-redirect
++Drop these files in that directory
++Go to the Plugins administration page and activate the plugin
++Have fun
 
 ========================
 
