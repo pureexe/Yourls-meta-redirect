@@ -1,7 +1,7 @@
 Meta Redirect
 ====================
 
-This is Yourls plugin use to skip link spam check.
+This is Yourls plugin use to skip spam check.
 in my case. i can't post [ok-like.net](https://ok-like.net) url to facebook because facebook report this is spam, after i shorten link facebook report it spam too. so i this plugin use tag meta to redirect it will skip facebook spam check. if you want to redirect with tag meta add "_" (under score) before your keyword. if not it will use header redirect as default.
 
 How to
